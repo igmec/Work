@@ -1,0 +1,216 @@
+[1106 16:55      0.043] [basic]	 App start time: "Sun Jun 11 12:55:20 2017"
+[1106 16:55      0.045] [basic]	 OS Version: "Windows 7 Service Pack 1 (major: 6, minor: 1) (build: 7601)"
+[1106 16:55      0.045] [basic]	 Windscribe Windows version:  1.70 build 4
+[1106 16:55      0.093] [basic]	 OpenVPN version: "2.3.14"
+[1106 16:55      0.094] [basic]	 Options on start
+[1106 16:55      0.094] [basic]	 Launch on start: true
+[1106 16:55      0.094] [basic]	 Auto connect: false
+[1106 16:55      0.094] [basic]	 Allow lan traffic: true
+[1106 16:55      0.094] [basic]	 Minimize to tray: true
+[1106 16:55      0.094] [basic]	 Firewall mode: automatic
+[1106 16:55      0.094] [basic]	 Show notifications: true
+[1106 16:55      0.094] [basic]	 Proxy option: none
+[1106 16:55      0.094] [basic]	 Proxy address: ""
+[1106 16:55      0.094] [basic]	 Proxy port: 0
+[1106 16:55      0.094] [basic]	 Proxy username: empty
+[1106 16:55      0.094] [basic]	 Proxy password: empty
+[1106 16:55      0.094] [basic]	 Connection settings automatic: true
+[1106 16:55      0.094] [basic]	 Connection settings protocol: "UDP"
+[1106 16:55      0.094] [basic]	 Connection settings port: 443
+[1106 16:55      0.094] [basic]	 Ignore SSL errors: false
+[1106 16:55      0.094] [basic]	 DNS mode: automatic
+[1106 16:55      0.094] [basic]	 AuthHash: "1497136413-e3412b56034e52d16a442c92bbb7211e-8d60fc43"
+[1106 16:55      0.094] [basic]	 Last location id: 7
+[1106 16:55      0.094] [basic]	 Last city name: "Toronto #1"
+[1106 16:55      0.094] [basic]	 First run: false
+[1106 16:55      0.094] [basic]	 Beta channel: false
+[1106 16:55      0.094] [basic]	 Language changed: "en"
+[1106 16:55      0.134] [basic]	 AdapterMetricsController_win, is Windows 10 = false
+[1106 16:55      0.159] [basic]	 Curl version: libcurl/7.53.1 OpenSSL/1.0.2k
+[1106 16:55      0.623] [server_api]	 SSL version: "OpenSSL 1.0.2k  26 Jan 2017"
+[1106 16:55      0.623] [server_api]	 Changed DNS mode to custom
+[1106 16:55      0.688] [basic]	 OpenVPN helper connected ok
+[1106 16:55      0.688] [basic]	 Helper version "1.08"
+[1106 16:55      0.688] [basic]	 ApiInfo readed from settings
+[1106 16:55      0.689] [basic]	 update session status
+[1106 16:55      0.731] [basic]	 Base filtering platform service is running: true
+[1106 16:55      0.732] [basic]	 Firewall state from last app start: false
+[1106 16:55      0.749] [basic]	 state = CONNECT_BUTTON_OFF
+[1106 16:55      0.786] [basic]	 Start login process with authHash, bFromConnectedToVPNState = false
+[1106 16:55      0.786] [basic]	 Try login with hostname: "api.windscribe.com"
+[1106 16:55      0.786] [server_api]	 setHostname: "api.windscribe.com"
+[1106 16:55      0.802] [basic]	 on host ips changed event: ("104.20.122.38", "104.20.123.38")
+[1106 16:55      1.164] [server_api]	 API request Session successfully executed
+[1106 16:55      1.165] [server_api]	 "{\n\"data\": {\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315139688,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 16:55      1.165] [default]	 MainWindow::onReadyForNetworkRequests()
+[1106 16:55      1.165] [server_api]	 setRequestsEnabled: true
+[1106 16:55      1.165] [basic]	 Using saved server credentials
+[1106 16:55      1.287] [basic]	 No available update
+[1106 16:55      1.291] [server_api]	 API request ServerConfigs successfully executed
+[1106 16:55      1.324] [server_api]	 API request ServerLocations successfully executed, revision changed = 318
+[1106 16:55      1.406] [server_api]	 API request PortMap successfully executed
+[1106 16:55      1.456] [server_api]	 API request BestLocation successfully executed
+[1106 16:55      1.456] [basic]	 onLoginControllerFinished, retCode = 0 ; bFromConnectedToVPNState = false
+[1106 16:55      1.456] [basic]	 update session status
+[1106 16:55      4.757] [ping ]	 Ping failed for node:  "82.221.139.38"
+[1106 16:55     12.693] [user ]	 Connect click from user
+[1106 16:55     12.718] [basic]	 Automatic enable firewall before connection
+[1106 16:55     12.718] [basic]	 === DNS Configuration begin ===
+[1106 16:55     12.728] [basic]	 TAP-NordVPN Windows Adapter V9 ( "" )
+[1106 16:55     12.734] [basic]	 Windscribe VPN ( "" )
+[1106 16:55     12.739] [basic]	 Atheros AR9287 Wireless Network Adapter ( "192.168.1.1" )
+[1106 16:55     12.739] [basic]	 === DNS Configuration end ===
+[1106 16:55     12.769] [basic]	 state = CONNECT_BUTTON_CONNECTING
+[1106 16:55     12.769] [basic]	 radiusUsername:  "igormec_k32nzwu5"
+[1106 16:55     12.769] [basic]	 radiusPassword:  "8ufgx4s6je"
+[1106 16:55     12.769] [basic]	 Connecting to "Toronto #1"
+[1106 16:55     12.769] [connection]	 Use latest successfully connection protocol: "UDP"
+[1106 16:55     12.769] [connection]	 Connection settings: automatic
+[1106 16:55     12.769] [connection]	 Location nodes: "node1 = {ip1 = 104.254.92.10, ip2 = 104.254.92.11, ip3 = 104.254.92.12}; node2 = {ip1 = 104.254.92.98, ip2 = 104.254.92.99, ip3 = 104.254.92.100}; "
+[1106 16:55     12.770] [connection]	 OVPN-config path: "C:/Users/Igor/AppData/Local/Windscribe/Windscribe/config.ovpn"
+[1106 16:55     12.770] [connection]	 Connecting to IP: "104.254.92.11"  protocol: "UDP"  port: 443
+[1106 16:55     12.770] [connection]	 connectOVPN
+[1106 16:55     12.770] [connection]	 "--config \"C:/Users/Igor/AppData/Local/Windscribe/Windscribe/config.ovpn\" --management 127.0.0.1 64284 --management-query-passwords --management-hold"
+[1106 16:55     12.772] [connection]	 openvpn process runned:  64284
+[1106 16:55     13.272] [connection]	 Program connected to openvpn socket
+[1106 16:55     13.272] [openvpn]	 ">INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info"
+[1106 16:55     13.273] [openvpn]	 ">HOLD:Waiting for hold release"
+[1106 16:55     13.273] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[1106 16:55     13.274] [openvpn]	 "1497200133,CONNECTING,,,"
+[1106 16:55     13.274] [openvpn]	 "END"
+[1106 16:55     13.274] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[1106 16:55     13.274] [openvpn]	 "SUCCESS: bytecount interval changed"
+[1106 16:55     13.275] [openvpn]	 "SUCCESS: hold release succeeded"
+[1106 16:55     13.275] [openvpn]	 ">PASSWORD:Need 'Auth' username/password"
+[1106 16:55     13.275] [openvpn]	 "SUCCESS: 'Auth' username entered, but not yet verified"
+[1106 16:55     13.276] [openvpn]	 "SUCCESS: 'Auth' password entered, but not yet verified"
+[1106 16:55     13.363] [openvpn]	 ">LOG:1497200134,I,Control Channel Authentication: tls-auth using INLINE static key file"
+[1106 16:55     13.364] [openvpn]	 ">LOG:1497200134,,Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[1106 16:55     13.364] [openvpn]	 ">LOG:1497200134,,Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[1106 16:55     13.364] [openvpn]	 ">LOG:1497200134,I,UDPv4 link local: [undef]"
+[1106 16:55     13.364] [openvpn]	 ">LOG:1497200134,I,UDPv4 link remote: [AF_INET]104.254.92.11:443"
+[1106 16:55     13.364] [openvpn]	 ">STATE:1497200134,WAIT,,,"
+[1106 16:55     13.375] [openvpn]	 ">STATE:1497200134,AUTH,,,"
+[1106 16:55     13.375] [openvpn]	 ">LOG:1497200134,W,WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this"
+[1106 16:55     13.439] [openvpn]	 ">LOG:1497200134,,VERIFY OK: depth=1, C=CA, ST=ON, L=Toronto, O=Windscribe Limited, OU=Operations, CN=Windscribe Node CA"
+[1106 16:55     13.440] [openvpn]	 ">LOG:1497200134,,VERIFY OK: nsCertType=SERVER"
+[1106 16:55     13.440] [openvpn]	 ">LOG:1497200134,,VERIFY OK: depth=0, C=CA, ST=ON, O=Windscribe Limited, OU=Operations, CN=Windscribe Node Server 4096"
+[1106 16:55     13.811] [openvpn]	 ">LOG:1497200135,,Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[1106 16:55     13.812] [openvpn]	 ">LOG:1497200135,,Data Channel Encrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[1106 16:55     13.812] [openvpn]	 ">LOG:1497200135,,Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[1106 16:55     13.812] [openvpn]	 ">LOG:1497200135,,Data Channel Decrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[1106 16:55     13.813] [openvpn]	 ">LOG:1497200135,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 4096 bit RSA"
+[1106 16:55     13.813] [openvpn]	 ">LOG:1497200135,I,[Windscribe Node Server 4096] Peer Connection Initiated with [AF_INET]104.254.92.11:443"
+[1106 16:55     14.973] [openvpn]	 ">STATE:1497200136,GET_CONFIG,,,"
+[1106 16:55     16.184] [openvpn]	 ">LOG:1497200137,I,do_ifconfig, tt->ipv6=0, tt->did_ifconfig_ipv6_setup=0"
+[1106 16:55     16.184] [openvpn]	 ">STATE:1497200137,ASSIGN_IP,,10.111.134.19,"
+[1106 16:55     16.185] [openvpn]	 ">LOG:1497200137,I,open_tun, tt->ipv6=0"
+[1106 16:55     16.187] [openvpn]	 ">LOG:1497200137,I,TAP-WIN32 device [Local Area Connection 2] opened: \\\\.\\Global\\{9352E868-ED10-4B01-B0CA-D1CCCE66185E}.tap"
+[1106 16:55     16.187] [openvpn]	 ">LOG:1497200137,I,Set TAP-Windows TUN subnet mode network/local/netmask = 10.111.134.0/10.111.134.19/255.255.254.0 [SUCCEEDED]"
+[1106 16:55     16.187] [openvpn]	 ">LOG:1497200137,I,Notified TAP-Windows driver to set a DHCP IP/netmask of 10.111.134.19/255.255.254.0 on interface {9352E868-ED10-4B01-B0CA-D1CCCE66185E} [DHCP-serv: 10.111.135.254, lease-time: 31536000]"
+[1106 16:55     16.187] [openvpn]	 ">LOG:1497200137,I,Successful ARP Flush on interface [17] {9352E868-ED10-4B01-B0CA-D1CCCE66185E}"
+[1106 16:55     16.187] [openvpn]	 ">LOG:1497200137,I,Blocking DNS using WFP"
+[1106 16:55     21.297] [openvpn]	 ">LOG:1497200142,I,Initialization Sequence Completed"
+[1106 16:55     21.297] [openvpn]	 ">STATE:1497200142,CONNECTED,SUCCESS,10.111.134.19,104.254.92.11"
+[1106 16:55     21.298] [connection]	 ConnectionManager::onOpenVPNConnected(), state_ = 1
+[1106 16:55     21.298] [connection]	 TestVPNTunnel::startTests()
+[1106 16:55     21.341] [basic]	 state = CONNECT_BUTTON_ON
+[1106 16:55     21.413] [basic]	 IPv6 disabled
+[1106 16:55     21.413] [server_api]	 Changed DNS mode to automatic
+[1106 16:55     26.336] [connection]	 Do ping test to: "https://ping.windscribe.com"
+[1106 16:55     26.457] [connection]	 Resolve test: ok; Ping test: ok; Fetch test: ok
+[1106 16:55     26.457] [connection]	 TestVPNTunnel::stopTests()
+[1106 16:55     26.457] [connection]	 Save latest successfully connection protocol: "UDP"
+[1106 16:56     60.917] [server_api]	 API request Session successfully executed
+[1106 16:56     60.917] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315139688,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 16:56     60.917] [basic]	 update session status
+[1106 16:56     66.122] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 16:57    121.009] [server_api]	 API request Session successfully executed
+[1106 16:57    121.010] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315139688,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 16:57    121.010] [basic]	 update session status
+[1106 16:57    131.097] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 16:58    180.969] [server_api]	 API request Session successfully executed
+[1106 16:58    180.969] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315139688,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 16:58    180.970] [basic]	 update session status
+[1106 16:58    195.941] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 16:59    240.979] [server_api]	 API request Session successfully executed
+[1106 16:59    240.979] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315474994,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 16:59    240.979] [basic]	 update session status
+[1106 16:59    260.982] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:00    301.094] [server_api]	 API request Session successfully executed
+[1106 17:00    301.095] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 315474994,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:00    301.095] [basic]	 update session status
+[1106 17:00    325.975] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:01    360.996] [server_api]	 API request Session successfully executed
+[1106 17:01    360.996] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 317286185,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:01    360.997] [basic]	 update session status
+[1106 17:01    390.939] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:02    421.133] [server_api]	 API request Session successfully executed
+[1106 17:02    421.133] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 317286185,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:02    421.133] [basic]	 update session status
+[1106 17:02    455.961] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:03    481.031] [server_api]	 API request Session successfully executed
+[1106 17:03    481.032] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 317484044,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:03    481.032] [basic]	 update session status
+[1106 17:04    520.962] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:04    541.133] [server_api]	 API request Session successfully executed
+[1106 17:04    541.134] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 317484044,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:04    541.134] [basic]	 update session status
+[1106 17:04    574.763] [ping ]	 Ping failed for node:  "23.82.164.129"
+[1106 17:05    586.141] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:05    601.020] [server_api]	 API request Session successfully executed
+[1106 17:05    601.020] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 318187302,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:05    601.021] [basic]	 update session status
+[1106 17:06    651.075] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:06    661.221] [server_api]	 API request Session successfully executed
+[1106 17:06    661.222] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 318187302,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:06    661.222] [basic]	 update session status
+[1106 17:07    716.014] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:07    721.063] [server_api]	 API request Session successfully executed
+[1106 17:07    721.063] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 319025789,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:07    721.063] [basic]	 update session status
+[1106 17:08    781.178] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:08    781.295] [server_api]	 API request Session successfully executed
+[1106 17:08    781.296] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 319025789,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:08    781.296] [basic]	 update session status
+[1106 17:09    841.137] [server_api]	 API request Session successfully executed
+[1106 17:09    841.137] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 333151561,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:09    841.138] [basic]	 update session status
+[1106 17:09    846.092] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:10    901.082] [server_api]	 API request Session successfully executed
+[1106 17:10    901.082] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 333151561,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:10    901.082] [basic]	 update session status
+[1106 17:10    911.082] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:11    961.280] [server_api]	 API request Session successfully executed
+[1106 17:11    961.280] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 349430462,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:11    961.280] [basic]	 update session status
+[1106 17:11    976.004] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:12   1021.141] [server_api]	 API request Session successfully executed
+[1106 17:12   1021.141] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 349430462,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:12   1021.141] [basic]	 update session status
+[1106 17:12   1041.189] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:13   1081.129] [server_api]	 API request Session successfully executed
+[1106 17:13   1081.129] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 353360407,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:13   1081.129] [basic]	 update session status
+[1106 17:13   1105.985] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[1106 17:14   1141.203] [server_api]	 API request Session successfully executed
+[1106 17:14   1141.204] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"CA\",\n\"username\": \"igormec\",\n\"user_id\": \"mt8aze3j\",\n\"traffic_used\": 353360407,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 5,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2027-06-06\",\n\"reg_date\": 1496671972,\n\"last_reset\": \"2017-06-05\"\n}\n}"
+[1106 17:14   1141.204] [basic]	 update session status
+[1106 17:14   1164.378] [user ]	 Disconnect click from user
+[1106 17:14   1164.379] [connection]	 ConnectionManager::clickDisconnect()
+[1106 17:14   1164.379] [openvpn]	 "SUCCESS: signal SIGTERM thrown"
+[1106 17:14   1164.394] [openvpn]	 ">LOG:1497201285,,Closing TUN/TAP interface"
+[1106 17:14   1164.397] [openvpn]	 ">LOG:1497201285,I,SIGTERM[hard,] received, process exiting"
+[1106 17:14   1164.397] [openvpn]	 ">STATE:1497201285,EXITING,SIGTERM,,"
+[1106 17:14   1164.397] [connection]	 ConnectionManager::onOpenVPNDisconnected(), state_ = 4
+[1106 17:14   1164.397] [basic]	 on disconnected event
+[1106 17:14   1164.397] [server_api]	 Changed DNS mode to custom
+[1106 17:14   1164.434] [basic]	 state = CONNECT_BUTTON_OFF
+[1106 17:14   1164.466] [basic]	 Automatic disable firewall after connection
+[1106 17:14   1164.466] [basic]	 === DNS Configuration begin ===
+[1106 17:14   1164.472] [basic]	 TAP-NordVPN Windows Adapter V9 ( "" )
+[1106 17:14   1164.477] [basic]	 Windscribe VPN ( "" )
+[1106 17:14   1164.481] [basic]	 Atheros AR9287 Wireless Network Adapter ( "192.168.1.1" )
+[1106 17:14   1164.481] [basic]	 === DNS Configuration end ===
+[1106 17:14   1164.482] [basic]	 IPv6 enabled
+[1106 17:14   1171.015] [server_api]	 API request ServerLocations successfully executed, revision not changed
