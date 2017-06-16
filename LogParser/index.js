@@ -39,7 +39,11 @@ for(var i=0;i<logSplit.length();i++){
 
 function parseLine(line/*, OS*/){
 
-	var tempLine = line.split("\t")[0];
+	var tempLine = line.split("\t");
+	var msg = tempLine[1];
+	msg = msg.slice(1,msg.length);
+
+	tempLine = tempLine[0];
 	tempLine = tempLine.split("] [");
 
 	var dateTime = tempLine[0];
