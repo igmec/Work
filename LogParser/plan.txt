@@ -5,3 +5,4 @@ Check OpenVPN connect
 - state connected
 
 NEXT - Catch SIGTERMS that are not triggered by user clicks
+FIX - CONNECT button turns to CONNECTING after openVPN is no longer connected
