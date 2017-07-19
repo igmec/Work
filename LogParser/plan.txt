@@ -1,0 +1,7 @@
+Check OpenVPN connect
+- state connecting
+- openvpn connecting
+- openvpn connected
+- state connected
+
+NEXT - Catch SIGTERMS that are not triggered by user clicks

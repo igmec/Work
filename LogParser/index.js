@@ -5,7 +5,9 @@
 4.
 */
 const fs = require("fs");
-const log = fs.readFileSync("./userLogs/log-saxanger.txt", "UTF8");
+//const log = fs.readFileSync("./userLogs/log-saxanger.txt", "UTF8");
+//const log = fs.readFileSync("./userLogs/log-guyverwey.txt", "UTF8");
+const log = fs.readFileSync("./userLogs/log-PamW.txt", "UTF8");
 //const log = fs.readFileSync("./log.txt", "UTF8");
 var logSplit = log.split("\n");
 
@@ -22,7 +24,7 @@ var UIbutton = '';
 var currentLine = "";
 //For loop goes trough all lines in log
 for(var i=0;i<logSplit.length;i++){
-	// /console.log("Line - " + i);
+	//console.log("Line - " + i);
 	//console.log(logSplit[i]);
 	if(logSplit[i] != "") {
 
