@@ -1,0 +1,1018 @@
+[2007 09:46      0.155] [basic]	 App start time: "�� ��� 20 12:46:45 2017"
+[2007 09:46      0.165] [basic]	 OS Version: "Windows 7 Service Pack 1 (major: 6, minor: 1) (build: 7601)"
+[2007 09:46      0.166] [basic]	 Windscribe Windows version:  1.70 build 4
+[2007 09:46      0.666] [basic]	 OpenVPN version: "2.3.14"
+[2007 09:46      0.682] [basic]	 Options on start
+[2007 09:46      0.682] [basic]	 Launch on start: true
+[2007 09:46      0.682] [basic]	 Auto connect: true
+[2007 09:46      0.682] [basic]	 Allow lan traffic: true
+[2007 09:46      0.682] [basic]	 Minimize to tray: true
+[2007 09:46      0.682] [basic]	 Firewall mode: always on
+[2007 09:46      0.682] [basic]	 Show notifications: false
+[2007 09:46      0.682] [basic]	 Proxy option: none
+[2007 09:46      0.682] [basic]	 Proxy address: ""
+[2007 09:46      0.682] [basic]	 Proxy port: 0
+[2007 09:46      0.682] [basic]	 Proxy username: empty
+[2007 09:46      0.682] [basic]	 Proxy password: empty
+[2007 09:46      0.682] [basic]	 Connection settings automatic: false
+[2007 09:46      0.683] [basic]	 Connection settings protocol: "UDP"
+[2007 09:46      0.683] [basic]	 Connection settings port: 54783
+[2007 09:46      0.683] [basic]	 Ignore SSL errors: false
+[2007 09:46      0.683] [basic]	 DNS mode: automatic
+[2007 09:46      0.683] [basic]	 AuthHash: "1500387431-59b3247dede6b59146d80f9b4a9086ec-69b0803f"
+[2007 09:46      0.683] [basic]	 Last location id: 68
+[2007 09:46      0.683] [basic]	 Last city name: ""
+[2007 09:46      0.683] [basic]	 First run: false
+[2007 09:46      0.683] [basic]	 Beta channel: false
+[2007 09:46      0.683] [basic]	 Language changed: "ru"
+[2007 09:46      0.743] [basic]	 AdapterMetricsController_win, is Windows 10 = false
+[2007 09:46      1.018] [basic]	 Curl version: libcurl/7.53.1 OpenSSL/1.0.2k
+[2007 09:46      1.658] [server_api]	 SSL version: "OpenSSL 1.0.2k  26 Jan 2017"
+[2007 09:46      1.658] [server_api]	 Changed DNS mode to custom
+[2007 09:46      2.121] [basic]	 OpenVPN helper connected ok
+[2007 09:46      2.121] [basic]	 Helper version "1.08"
+[2007 09:46      2.121] [basic]	 Start login process with authHash, bFromConnectedToVPNState = false
+[2007 09:46      2.122] [basic]	 Try login with hostname: "api.windscribe.com"
+[2007 09:46      2.122] [server_api]	 setHostname: "api.windscribe.com"
+[2007 09:46      2.234] [basic]	 on host ips changed event: ("104.20.123.38", "104.20.122.38")
+[2007 09:46      2.437] [server_api]	 API request Session successfully executed
+[2007 09:46      2.437] [server_api]	 "{\n\"data\": {\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76767560946,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:46      2.459] [default]	 MainWindow::onReadyForNetworkRequests()
+[2007 09:46      2.459] [server_api]	 setRequestsEnabled: true
+[2007 09:46      2.700] [basic]	 No available update
+[2007 09:46      3.091] [server_api]	 API request ServerConfigs successfully executed
+[2007 09:46      3.096] [server_api]	 API request BestLocation successfully executed
+[2007 09:46      3.097] [server_api]	 API request PortMap successfully executed
+[2007 09:46      3.219] [server_api]	 API request ServerCredentials successfully executed
+[2007 09:46      3.272] [server_api]	 API request ServerLocations successfully executed, revision changed = 2127
+[2007 09:46      3.273] [basic]	 onLoginControllerFinished, retCode = 0 ; bFromConnectedToVPNState = false
+[2007 09:46      3.273] [basic]	 update session status
+[2007 09:46      3.948] [basic]	 Base filtering platform service is running: true
+[2007 09:46      3.948] [basic]	 Firewall state from last app start: true
+[2007 09:46      4.004] [basic]	 state = CONNECT_BUTTON_OFF
+[2007 09:46      4.117] [basic]	 Autoconnect on app start
+[2007 09:46      4.117] [basic]	 === DNS Configuration begin ===
+[2007 09:46      4.123] [basic]	 Windscribe VPN ( "" )
+[2007 09:46      4.126] [basic]	 Dell Wireless 1704 802.11b/g/n (2,4? ( "10.10.10.1" )
+[2007 09:46      4.130] [basic]	 Anchorfree HSS VPN Adapter ( "" )
+[2007 09:46      4.135] [basic]	 Realtek PCIe GBE Family Controller ( "" )
+[2007 09:46      4.135] [basic]	 === DNS Configuration end ===
+[2007 09:46      4.159] [basic]	 state = CONNECT_BUTTON_CONNECTING
+[2007 09:46      4.160] [basic]	 radiusUsername:  "PiterPols_aguyv8"
+[2007 09:46      4.160] [basic]	 radiusPassword:  "dbskj2wzx7"
+[2007 09:46      4.160] [basic]	 Connecting to "Poland"
+[2007 09:46      4.160] [connection]	 Connection settings: manual  "UDP" 54783
+[2007 09:46      4.160] [connection]	 Location nodes: "node1 = {ip1 = 37.28.152.66, ip2 = 5.133.8.164, ip3 = 5.133.8.165}; "
+[2007 09:46      4.181] [connection]	 OVPN-config path: "C:/Users/�������������/AppData/Local/Windscribe/Windscribe/config.ovpn"
+[2007 09:46      4.181] [connection]	 Connecting to IP: "5.133.8.164"  protocol: "UDP"  port: 54783
+[2007 09:46      4.181] [connection]	 connectOVPN
+[2007 09:46      4.181] [connection]	 "--config \"C:/Users/�������������/AppData/Local/Windscribe/Windscribe/config.ovpn\" --management 127.0.0.1 49260 --management-query-passwords --management-hold"
+[2007 09:46      4.183] [connection]	 openvpn process runned:  49260
+[2007 09:46      4.689] [connection]	 Program connected to openvpn socket
+[2007 09:46      4.689] [openvpn]	 ">INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info"
+[2007 09:46      4.689] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 09:46      4.690] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 09:46      4.690] [openvpn]	 "1500544009,CONNECTING,,,"
+[2007 09:46      4.690] [openvpn]	 "END"
+[2007 09:46      4.690] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 09:46      4.690] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 09:46      4.690] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 09:46      4.690] [openvpn]	 ">PASSWORD:Need 'Auth' username/password"
+[2007 09:46      4.691] [openvpn]	 "SUCCESS: 'Auth' username entered, but not yet verified"
+[2007 09:46      4.691] [openvpn]	 "SUCCESS: 'Auth' password entered, but not yet verified"
+[2007 09:46      4.767] [openvpn]	 ">LOG:1500544010,I,Control Channel Authentication: tls-auth using INLINE static key file"
+[2007 09:46      4.767] [openvpn]	 ">LOG:1500544010,,Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 09:46      4.767] [openvpn]	 ">LOG:1500544010,,Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 09:46      4.767] [openvpn]	 ">LOG:1500544010,I,UDPv4 link local: [undef]"
+[2007 09:46      4.767] [openvpn]	 ">LOG:1500544010,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 09:46      4.767] [openvpn]	 ">STATE:1500544010,WAIT,,,"
+[2007 09:46      4.794] [openvpn]	 ">STATE:1500544010,AUTH,,,"
+[2007 09:46      4.794] [openvpn]	 ">LOG:1500544010,W,WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this"
+[2007 09:46      4.872] [openvpn]	 ">LOG:1500544010,,VERIFY OK: depth=1, C=CA, ST=ON, L=Toronto, O=Windscribe Limited, OU=Operations, CN=Windscribe Node CA"
+[2007 09:46      4.872] [openvpn]	 ">LOG:1500544010,,VERIFY OK: nsCertType=SERVER"
+[2007 09:46      4.872] [openvpn]	 ">LOG:1500544010,,VERIFY OK: depth=0, C=CA, ST=ON, O=Windscribe Limited, OU=Operations, CN=Windscribe Node Server 4096"
+[2007 09:46      5.425] [openvpn]	 ">LOG:1500544010,,Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 09:46      5.426] [openvpn]	 ">LOG:1500544010,,Data Channel Encrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 09:46      5.426] [openvpn]	 ">LOG:1500544010,,Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 09:46      5.426] [openvpn]	 ">LOG:1500544010,,Data Channel Decrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 09:46      5.426] [openvpn]	 ">LOG:1500544010,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 4096 bit RSA"
+[2007 09:46      5.426] [openvpn]	 ">LOG:1500544010,I,[Windscribe Node Server 4096] Peer Connection Initiated with [AF_INET]5.133.8.164:54783"
+[2007 09:46      6.608] [openvpn]	 ">STATE:1500544012,GET_CONFIG,,,"
+[2007 09:46      7.846] [openvpn]	 ">LOG:1500544013,I,do_ifconfig, tt->ipv6=0, tt->did_ifconfig_ipv6_setup=0"
+[2007 09:46      7.846] [openvpn]	 ">STATE:1500544013,ASSIGN_IP,,10.110.190.5,"
+[2007 09:46      7.846] [openvpn]	 ">LOG:1500544013,I,open_tun, tt->ipv6=0"
+[2007 09:46      7.846] [openvpn]	 ">LOG:1500544013,I,TAP-WIN32 device [WS] opened: \\\\.\\Global\\{FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}.tap"
+[2007 09:46      7.847] [openvpn]	 ">LOG:1500544013,I,Set TAP-Windows TUN subnet mode network/local/netmask = 10.110.190.0/10.110.190.5/255.255.254.0 [SUCCEEDED]"
+[2007 09:46      7.847] [openvpn]	 ">LOG:1500544013,I,Notified TAP-Windows driver to set a DHCP IP/netmask of 10.110.190.5/255.255.254.0 on interface {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262} [DHCP-serv: 10.110.191.254, lease-time: 31536000]"
+[2007 09:46      7.847] [openvpn]	 ">LOG:1500544013,I,Successful ARP Flush on interface [24] {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}"
+[2007 09:46      7.847] [openvpn]	 ">LOG:1500544013,I,Blocking DNS using WFP"
+[2007 09:46      8.105] [ping ]	 Ping failed for node:  "45.64.186.189"
+[2007 09:46     12.750] [openvpn]	 ">LOG:1500544018,I,Initialization Sequence Completed"
+[2007 09:46     12.750] [openvpn]	 ">STATE:1500544018,CONNECTED,SUCCESS,10.110.190.5,5.133.8.164"
+[2007 09:46     12.750] [connection]	 ConnectionManager::onOpenVPNConnected(), state_ = 1
+[2007 09:46     12.750] [connection]	 TestVPNTunnel::startTests()
+[2007 09:46     12.773] [basic]	 state = CONNECT_BUTTON_ON
+[2007 09:46     12.827] [basic]	 IPv6 disabled
+[2007 09:46     12.827] [server_api]	 Changed DNS mode to automatic
+[2007 09:47     17.810] [connection]	 Do ping test to: "https://ping.windscribe.com"
+[2007 09:47     18.011] [connection]	 Resolve test: ok; Ping test: ok; Fetch test: ok
+[2007 09:47     18.011] [connection]	 TestVPNTunnel::stopTests()
+[2007 09:47     64.640] [server_api]	 API request Session successfully executed
+[2007 09:47     64.640] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76767560946,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:47     64.640] [basic]	 update session status
+[2007 09:47     69.452] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:48    124.477] [server_api]	 API request Session successfully executed
+[2007 09:48    124.477] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76767602781,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:48    124.478] [basic]	 update session status
+[2007 09:49    134.482] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:49    184.483] [server_api]	 API request Session successfully executed
+[2007 09:49    184.483] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76767619316,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:49    184.483] [basic]	 update session status
+[2007 09:50    199.896] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:50    244.500] [server_api]	 API request Session successfully executed
+[2007 09:50    244.500] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76767636187,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:50    244.501] [basic]	 update session status
+[2007 09:51    264.484] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:51    304.537] [server_api]	 API request Session successfully executed
+[2007 09:51    304.537] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76768705254,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:51    304.537] [basic]	 update session status
+[2007 09:52    329.509] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:52    364.849] [server_api]	 API request Session successfully executed
+[2007 09:52    364.849] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76773693616,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:52    364.850] [basic]	 update session status
+[2007 09:53    394.499] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:53    424.618] [server_api]	 API request Session successfully executed
+[2007 09:53    424.618] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76774370237,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:53    424.618] [basic]	 update session status
+[2007 09:54    459.562] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:54    484.582] [server_api]	 API request Session successfully executed
+[2007 09:54    484.583] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76774461682,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:54    484.583] [basic]	 update session status
+[2007 09:55    525.823] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:55    544.598] [server_api]	 API request Session successfully executed
+[2007 09:55    544.599] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76774486722,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:55    544.599] [basic]	 update session status
+[2007 09:56    589.522] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:56    604.608] [server_api]	 API request Session successfully executed
+[2007 09:56    604.609] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76776306796,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:56    604.609] [basic]	 update session status
+[2007 09:57    654.585] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:57    664.615] [server_api]	 API request Session successfully executed
+[2007 09:57    664.616] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76785665847,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:57    664.616] [basic]	 update session status
+[2007 09:58    719.516] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:58    725.172] [server_api]	 API request Session successfully executed
+[2007 09:58    725.172] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76789098809,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:58    725.172] [basic]	 update session status
+[2007 09:59    784.575] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 09:59    784.725] [server_api]	 API request Session successfully executed
+[2007 09:59    784.726] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76789294406,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 09:59    784.726] [basic]	 update session status
+[2007 10:00    844.765] [server_api]	 API request Session successfully executed
+[2007 10:00    844.765] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76799213550,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:00    844.765] [basic]	 update session status
+[2007 10:00    849.504] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:01    904.664] [server_api]	 API request Session successfully executed
+[2007 10:01    904.664] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76799231738,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:01    904.664] [basic]	 update session status
+[2007 10:02    920.335] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:02    964.656] [server_api]	 API request Session successfully executed
+[2007 10:02    964.656] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76806126875,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:02    964.656] [basic]	 update session status
+[2007 10:03    979.546] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:03   1024.653] [server_api]	 API request Session successfully executed
+[2007 10:03   1024.653] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833804421,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:03   1024.653] [basic]	 update session status
+[2007 10:04   1044.643] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:04   1084.661] [server_api]	 API request Session successfully executed
+[2007 10:04   1084.661] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833835199,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:04   1084.662] [basic]	 update session status
+[2007 10:05   1109.576] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:05   1144.752] [server_api]	 API request Session successfully executed
+[2007 10:05   1144.752] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833860158,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:05   1144.752] [basic]	 update session status
+[2007 10:06   1174.544] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:06   1204.896] [server_api]	 API request Session successfully executed
+[2007 10:06   1204.896] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833878468,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:06   1204.896] [basic]	 update session status
+[2007 10:07   1239.577] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:07   1264.715] [server_api]	 API request Session successfully executed
+[2007 10:07   1264.715] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833899294,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:07   1264.716] [basic]	 update session status
+[2007 10:08   1304.663] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:08   1324.719] [server_api]	 API request Session successfully executed
+[2007 10:08   1324.719] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833917182,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:08   1324.719] [basic]	 update session status
+[2007 10:09   1369.868] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:09   1384.739] [server_api]	 API request Session successfully executed
+[2007 10:09   1384.739] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76833935810,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:09   1384.740] [basic]	 update session status
+[2007 10:10   1434.636] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:10   1444.953] [server_api]	 API request Session successfully executed
+[2007 10:10   1444.953] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76875549572,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:10   1444.953] [basic]	 update session status
+[2007 10:11   1511.280] [server_api]	 API request ServerLocations failed: DNS-resolution failed
+[2007 10:11   1511.280] [server_api]	 API request Session failed: DNS-resolution failed
+[2007 10:11   1511.280] [basic]	 Request server locations failed. Seems no internet connectivity
+[2007 10:12   1564.605] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:12   1564.846] [server_api]	 API request Session successfully executed
+[2007 10:12   1564.846] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76948878777,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:12   1564.847] [basic]	 update session status
+[2007 10:13   1632.833] [server_api]	 API request Session successfully executed
+[2007 10:13   1632.833] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 76991657041,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:13   1632.833] [basic]	 update session status
+[2007 10:13   1632.857] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:14   1687.921] [server_api]	 API request Session successfully executed
+[2007 10:14   1687.921] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77025398408,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:14   1687.921] [basic]	 update session status
+[2007 10:15   1694.670] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:15   1744.841] [server_api]	 API request Session successfully executed
+[2007 10:15   1744.842] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77040537949,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:15   1744.842] [basic]	 update session status
+[2007 10:16   1759.591] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:16   1804.878] [server_api]	 API request Session successfully executed
+[2007 10:16   1804.878] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77090804587,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:16   1804.879] [basic]	 update session status
+[2007 10:17   1824.650] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:17   1864.826] [server_api]	 API request Session successfully executed
+[2007 10:17   1864.826] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77108696205,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:17   1864.826] [basic]	 update session status
+[2007 10:18   1889.635] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:18   1924.834] [server_api]	 API request Session successfully executed
+[2007 10:18   1924.835] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77124719842,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:18   1924.835] [basic]	 update session status
+[2007 10:19   1954.731] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:19   1985.057] [server_api]	 API request Session successfully executed
+[2007 10:19   1985.057] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77140266126,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:19   1985.057] [basic]	 update session status
+[2007 10:20   2019.614] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:20   2044.904] [server_api]	 API request Session successfully executed
+[2007 10:20   2044.904] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77154528682,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:20   2044.904] [basic]	 update session status
+[2007 10:21   2092.631] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:21   2104.945] [server_api]	 API request Session successfully executed
+[2007 10:21   2104.945] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77172245889,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:21   2104.946] [basic]	 update session status
+[2007 10:22   2149.604] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:22   2164.938] [server_api]	 API request Session successfully executed
+[2007 10:22   2164.938] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77191800885,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:22   2164.938] [basic]	 update session status
+[2007 10:23   2214.594] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:23   2225.008] [server_api]	 API request Session successfully executed
+[2007 10:23   2225.008] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77204695768,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:23   2225.008] [basic]	 update session status
+[2007 10:24   2279.725] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:24   2284.921] [server_api]	 API request Session successfully executed
+[2007 10:24   2284.921] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77220858486,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:24   2284.922] [basic]	 update session status
+[2007 10:25   2344.642] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:25   2345.006] [server_api]	 API request Session successfully executed
+[2007 10:25   2345.006] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77226509395,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:25   2345.006] [basic]	 update session status
+[2007 10:26   2404.998] [server_api]	 API request Session successfully executed
+[2007 10:26   2404.998] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77230360450,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:26   2404.998] [basic]	 update session status
+[2007 10:26   2409.624] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:27   2465.141] [server_api]	 API request Session successfully executed
+[2007 10:27   2465.141] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77233801223,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:27   2465.141] [basic]	 update session status
+[2007 10:28   2474.674] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:28   2524.970] [server_api]	 API request Session successfully executed
+[2007 10:28   2524.970] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77234842732,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:28   2524.970] [basic]	 update session status
+[2007 10:29   2539.758] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:29   2585.041] [server_api]	 API request Session successfully executed
+[2007 10:29   2585.041] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77235206601,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:29   2585.041] [basic]	 update session status
+[2007 10:30   2604.659] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:30   2645.050] [server_api]	 API request Session successfully executed
+[2007 10:30   2645.050] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77238550932,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:30   2645.050] [basic]	 update session status
+[2007 10:31   2669.645] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:31   2705.033] [server_api]	 API request Session successfully executed
+[2007 10:31   2705.033] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77260529184,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:31   2705.033] [basic]	 update session status
+[2007 10:32   2734.687] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:32   2765.033] [server_api]	 API request Session successfully executed
+[2007 10:32   2765.033] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77271746924,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:32   2765.034] [basic]	 update session status
+[2007 10:33   2799.703] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:33   2825.129] [server_api]	 API request Session successfully executed
+[2007 10:33   2825.129] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77285234035,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:33   2825.129] [basic]	 update session status
+[2007 10:34   2864.661] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:34   2885.063] [server_api]	 API request Session successfully executed
+[2007 10:34   2885.063] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77334309295,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:34   2885.063] [basic]	 update session status
+[2007 10:35   2929.788] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:35   2945.083] [server_api]	 API request Session successfully executed
+[2007 10:35   2945.083] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77349608039,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:35   2945.083] [basic]	 update session status
+[2007 10:36   2994.884] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:36   3005.119] [server_api]	 API request Session successfully executed
+[2007 10:36   3005.119] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77359334719,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:36   3005.119] [basic]	 update session status
+[2007 10:37   3059.682] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:37   3065.104] [server_api]	 API request Session successfully executed
+[2007 10:37   3065.104] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77411567582,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:37   3065.105] [basic]	 update session status
+[2007 10:38   3124.686] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:38   3125.091] [server_api]	 API request Session successfully executed
+[2007 10:38   3125.091] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77477366067,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:38   3125.091] [basic]	 update session status
+[2007 10:39   3185.301] [server_api]	 API request Session successfully executed
+[2007 10:39   3185.301] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77481137640,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:39   3185.301] [basic]	 update session status
+[2007 10:39   3189.656] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:40   3245.114] [server_api]	 API request Session successfully executed
+[2007 10:40   3245.114] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77481164241,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:40   3245.114] [basic]	 update session status
+[2007 10:41   3254.682] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:41   3305.135] [server_api]	 API request Session successfully executed
+[2007 10:41   3305.135] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77484736446,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:41   3305.135] [basic]	 update session status
+[2007 10:42   3319.692] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:42   3365.150] [server_api]	 API request Session successfully executed
+[2007 10:42   3365.150] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77487575288,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:42   3365.151] [basic]	 update session status
+[2007 10:43   3380.549] [openvpn]	 ">LOG:1500547386,N,Authenticate/Decrypt packet error: packet HMAC authentication failed"
+[2007 10:43   3384.770] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:43   3425.169] [server_api]	 API request Session successfully executed
+[2007 10:43   3425.170] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77499624772,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:43   3425.170] [basic]	 update session status
+[2007 10:44   3449.708] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:44   3485.175] [server_api]	 API request Session successfully executed
+[2007 10:44   3485.176] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77510325284,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:44   3485.176] [basic]	 update session status
+[2007 10:45   3514.724] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:45   3545.247] [server_api]	 API request Session successfully executed
+[2007 10:45   3545.247] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77529182754,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:45   3545.247] [basic]	 update session status
+[2007 10:46   3579.721] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:46   3605.251] [server_api]	 API request Session successfully executed
+[2007 10:46   3605.251] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77539129865,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2127\n}\n}"
+[2007 10:46   3605.251] [basic]	 update session status
+[2007 10:47   3644.725] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 10:47   3657.034] [basic]	 Windows shutdown received
+----------------------------------------------------------------
+[2007 15:23      1.635] [basic]	 App start time: "Чт июл 20 18:23:46 2017"
+[2007 15:23      1.656] [basic]	 OS Version: "Windows 7 Service Pack 1 (major: 6, minor: 1) (build: 7601)"
+[2007 15:23      1.656] [basic]	 Windscribe Windows version:  1.70 build 4
+[2007 15:23      2.526] [basic]	 OpenVPN version: "2.3.14"
+[2007 15:23      3.027] [basic]	 Options on start
+[2007 15:23      3.027] [basic]	 Launch on start: true
+[2007 15:23      3.027] [basic]	 Auto connect: true
+[2007 15:23      3.027] [basic]	 Allow lan traffic: true
+[2007 15:23      3.027] [basic]	 Minimize to tray: true
+[2007 15:23      3.027] [basic]	 Firewall mode: always on
+[2007 15:23      3.027] [basic]	 Show notifications: false
+[2007 15:23      3.027] [basic]	 Proxy option: none
+[2007 15:23      3.027] [basic]	 Proxy address: ""
+[2007 15:23      3.027] [basic]	 Proxy port: 0
+[2007 15:23      3.027] [basic]	 Proxy username: empty
+[2007 15:23      3.027] [basic]	 Proxy password: empty
+[2007 15:23      3.028] [basic]	 Connection settings automatic: false
+[2007 15:23      3.028] [basic]	 Connection settings protocol: "UDP"
+[2007 15:23      3.028] [basic]	 Connection settings port: 54783
+[2007 15:23      3.028] [basic]	 Ignore SSL errors: false
+[2007 15:23      3.029] [basic]	 DNS mode: automatic
+[2007 15:23      3.029] [basic]	 AuthHash: "1500387431-59b3247dede6b59146d80f9b4a9086ec-69b0803f"
+[2007 15:23      3.029] [basic]	 Last location id: 68
+[2007 15:23      3.029] [basic]	 Last city name: ""
+[2007 15:23      3.029] [basic]	 First run: false
+[2007 15:23      3.029] [basic]	 Beta channel: false
+[2007 15:23      3.030] [basic]	 Language changed: "ru"
+[2007 15:23      3.633] [basic]	 AdapterMetricsController_win, is Windows 10 = false
+[2007 15:23      4.076] [basic]	 Curl version: libcurl/7.53.1 OpenSSL/1.0.2k
+[2007 15:23      4.817] [server_api]	 SSL version: "OpenSSL 1.0.2k  26 Jan 2017"
+[2007 15:23      4.817] [server_api]	 Changed DNS mode to custom
+[2007 15:23      7.671] [basic]	 OpenVPN helper connected ok
+[2007 15:23      7.671] [basic]	 Helper version "1.08"
+[2007 15:23      7.672] [basic]	 Start login process with authHash, bFromConnectedToVPNState = false
+[2007 15:23      7.672] [basic]	 Try login with hostname: "api.windscribe.com"
+[2007 15:23      7.672] [server_api]	 setHostname: "api.windscribe.com"
+[2007 15:23      8.007] [basic]	 on host ips changed event: ("104.20.123.38", "104.20.122.38")
+[2007 15:23      8.486] [server_api]	 API request Session successfully executed
+[2007 15:23      8.486] [server_api]	 "{\n\"data\": {\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77625433958,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:23      8.498] [default]	 MainWindow::onReadyForNetworkRequests()
+[2007 15:23      8.498] [server_api]	 setRequestsEnabled: true
+[2007 15:23      8.704] [basic]	 No available update
+[2007 15:23      8.734] [server_api]	 API request ServerConfigs successfully executed
+[2007 15:23      8.737] [server_api]	 API request BestLocation successfully executed
+[2007 15:23      8.823] [server_api]	 API request PortMap successfully executed
+[2007 15:23      8.826] [server_api]	 API request ServerCredentials successfully executed
+[2007 15:23      8.848] [server_api]	 API request ServerLocations successfully executed, revision changed = 2129
+[2007 15:23      8.849] [basic]	 onLoginControllerFinished, retCode = 0 ; bFromConnectedToVPNState = false
+[2007 15:23      8.849] [basic]	 update session status
+[2007 15:23      9.503] [basic]	 Base filtering platform service is running: true
+[2007 15:23      9.503] [basic]	 Firewall state from last app start: true
+[2007 15:23      9.579] [basic]	 state = CONNECT_BUTTON_OFF
+[2007 15:23      9.666] [basic]	 Autoconnect on app start
+[2007 15:23      9.666] [basic]	 === DNS Configuration begin ===
+[2007 15:23      9.673] [basic]	 Windscribe VPN ( "" )
+[2007 15:23      9.677] [basic]	 Dell Wireless 1704 802.11b/g/n (2,4� ( "10.10.10.1" )
+[2007 15:23      9.681] [basic]	 Anchorfree HSS VPN Adapter ( "" )
+[2007 15:23      9.685] [basic]	 Realtek PCIe GBE Family Controller ( "" )
+[2007 15:23      9.685] [basic]	 === DNS Configuration end ===
+[2007 15:23      9.718] [basic]	 state = CONNECT_BUTTON_CONNECTING
+[2007 15:23      9.718] [basic]	 radiusUsername:  "PiterPols_aguyv8"
+[2007 15:23      9.718] [basic]	 radiusPassword:  "dbskj2wzx7"
+[2007 15:23      9.718] [basic]	 Connecting to "Poland"
+[2007 15:23      9.718] [connection]	 Connection settings: manual  "UDP" 54783
+[2007 15:23      9.718] [connection]	 Location nodes: "node1 = {ip1 = 37.28.152.66, ip2 = 5.133.8.164, ip3 = 5.133.8.165}; "
+[2007 15:23      9.719] [connection]	 OVPN-config path: "C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn"
+[2007 15:23      9.719] [connection]	 Connecting to IP: "5.133.8.164"  protocol: "UDP"  port: 54783
+[2007 15:23      9.719] [connection]	 connectOVPN
+[2007 15:23      9.721] [connection]	 "--config \"C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn\" --management 127.0.0.1 49261 --management-query-passwords --management-hold"
+[2007 15:23      9.724] [connection]	 openvpn process runned:  49261
+[2007 15:23     10.240] [connection]	 Program connected to openvpn socket
+[2007 15:23     10.240] [openvpn]	 ">INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info"
+[2007 15:23     10.240] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 15:23     10.240] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 15:23     10.240] [openvpn]	 "1500564234,CONNECTING,,,"
+[2007 15:23     10.240] [openvpn]	 "END"
+[2007 15:23     10.241] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 15:23     10.241] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 15:23     10.241] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 15:23     10.249] [openvpn]	 ">PASSWORD:Need 'Auth' username/password"
+[2007 15:23     10.250] [openvpn]	 "SUCCESS: 'Auth' username entered, but not yet verified"
+[2007 15:23     10.250] [openvpn]	 "SUCCESS: 'Auth' password entered, but not yet verified"
+[2007 15:23     10.363] [openvpn]	 ">LOG:1500564235,I,Control Channel Authentication: tls-auth using INLINE static key file"
+[2007 15:23     10.363] [openvpn]	 ">LOG:1500564235,,Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 15:23     10.363] [openvpn]	 ">LOG:1500564235,,Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 15:23     10.363] [openvpn]	 ">LOG:1500564235,I,UDPv4 link local: [undef]"
+[2007 15:23     10.363] [openvpn]	 ">LOG:1500564235,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 15:23     10.364] [openvpn]	 ">STATE:1500564235,WAIT,,,"
+[2007 15:23     10.389] [openvpn]	 ">STATE:1500564235,AUTH,,,"
+[2007 15:23     10.389] [openvpn]	 ">LOG:1500564235,W,WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this"
+[2007 15:23     10.466] [openvpn]	 ">LOG:1500564235,,VERIFY OK: depth=1, C=CA, ST=ON, L=Toronto, O=Windscribe Limited, OU=Operations, CN=Windscribe Node CA"
+[2007 15:23     10.466] [openvpn]	 ">LOG:1500564235,,VERIFY OK: nsCertType=SERVER"
+[2007 15:23     10.466] [openvpn]	 ">LOG:1500564235,,VERIFY OK: depth=0, C=CA, ST=ON, O=Windscribe Limited, OU=Operations, CN=Windscribe Node Server 4096"
+[2007 15:23     11.216] [openvpn]	 ">LOG:1500564235,,Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 15:23     11.216] [openvpn]	 ">LOG:1500564235,,Data Channel Encrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 15:23     11.217] [openvpn]	 ">LOG:1500564235,,Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 15:23     11.217] [openvpn]	 ">LOG:1500564235,,Data Channel Decrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 15:23     11.217] [openvpn]	 ">LOG:1500564235,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 4096 bit RSA"
+[2007 15:23     11.217] [openvpn]	 ">LOG:1500564235,I,[Windscribe Node Server 4096] Peer Connection Initiated with [AF_INET]5.133.8.164:54783"
+[2007 15:23     12.314] [openvpn]	 ">STATE:1500564236,GET_CONFIG,,,"
+[2007 15:23     13.486] [openvpn]	 ">LOG:1500564238,I,do_ifconfig, tt->ipv6=0, tt->did_ifconfig_ipv6_setup=0"
+[2007 15:23     13.487] [openvpn]	 ">STATE:1500564238,ASSIGN_IP,,10.110.190.24,"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,open_tun, tt->ipv6=0"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,TAP-WIN32 device [WS] opened: \\\\.\\Global\\{FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}.tap"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,Set TAP-Windows TUN subnet mode network/local/netmask = 10.110.190.0/10.110.190.24/255.255.254.0 [SUCCEEDED]"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,Notified TAP-Windows driver to set a DHCP IP/netmask of 10.110.190.24/255.255.254.0 on interface {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262} [DHCP-serv: 10.110.191.254, lease-time: 31536000]"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,Successful ARP Flush on interface [24] {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}"
+[2007 15:23     13.487] [openvpn]	 ">LOG:1500564238,I,Blocking DNS using WFP"
+[2007 15:24     19.154] [openvpn]	 ">LOG:1500564243,I,Initialization Sequence Completed"
+[2007 15:24     19.154] [openvpn]	 ">STATE:1500564243,CONNECTED,SUCCESS,10.110.190.24,5.133.8.164"
+[2007 15:24     19.154] [connection]	 ConnectionManager::onOpenVPNConnected(), state_ = 1
+[2007 15:24     19.155] [connection]	 TestVPNTunnel::startTests()
+[2007 15:24     19.176] [basic]	 state = CONNECT_BUTTON_ON
+[2007 15:24     19.230] [basic]	 IPv6 disabled
+[2007 15:24     19.230] [server_api]	 Changed DNS mode to automatic
+[2007 15:24     24.231] [connection]	 Do ping test to: "https://ping.windscribe.com"
+[2007 15:24     24.428] [connection]	 Resolve test: ok; Ping test: ok; Fetch test: ok
+[2007 15:24     24.428] [connection]	 TestVPNTunnel::stopTests()
+[2007 15:24     70.041] [server_api]	 API request Session successfully executed
+[2007 15:24     70.041] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77625433958,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:24     70.041] [basic]	 update session status
+[2007 15:24     75.020] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:25    130.016] [server_api]	 API request Session successfully executed
+[2007 15:25    130.016] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77627558270,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:25    130.016] [basic]	 update session status
+[2007 15:26    140.073] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:26    190.018] [server_api]	 API request Session successfully executed
+[2007 15:26    190.019] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77634159165,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:26    190.019] [basic]	 update session status
+[2007 15:27    205.024] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:27    250.046] [server_api]	 API request Session successfully executed
+[2007 15:27    250.046] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77638120777,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:27    250.046] [basic]	 update session status
+[2007 15:28    270.034] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:28    310.055] [server_api]	 API request Session successfully executed
+[2007 15:28    310.055] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77638185707,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:28    310.055] [basic]	 update session status
+[2007 15:29    335.129] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:29    370.114] [server_api]	 API request Session successfully executed
+[2007 15:29    370.115] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77638298609,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:29    370.115] [basic]	 update session status
+[2007 15:30    400.046] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:30    430.111] [server_api]	 API request Session successfully executed
+[2007 15:30    430.111] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77638364877,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:30    430.111] [basic]	 update session status
+[2007 15:31    465.080] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:31    490.155] [server_api]	 API request Session successfully executed
+[2007 15:31    490.155] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77641133437,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:31    490.155] [basic]	 update session status
+[2007 15:32    530.093] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:32    550.163] [server_api]	 API request Session successfully executed
+[2007 15:32    550.163] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77643328351,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:32    550.163] [basic]	 update session status
+[2007 15:33    595.067] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:33    610.125] [server_api]	 API request Session successfully executed
+[2007 15:33    610.125] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77644577110,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:33    610.125] [basic]	 update session status
+[2007 15:34    653.721] [openvpn]	 ">LOG:1500564878,N,Authenticate/Decrypt packet error: packet HMAC authentication failed"
+[2007 15:34    671.753] [server_api]	 API request ServerLocations failed: DNS-resolution failed
+[2007 15:34    671.753] [server_api]	 API request Session failed: DNS-resolution failed
+[2007 15:34    671.753] [basic]	 Request server locations failed. Seems no internet connectivity
+[2007 15:35    725.130] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:35    730.175] [server_api]	 API request Session successfully executed
+[2007 15:35    730.175] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77651798884,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:35    730.175] [basic]	 update session status
+[2007 15:36    790.066] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:36    790.128] [server_api]	 API request Session successfully executed
+[2007 15:36    790.128] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77684473049,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:36    790.128] [basic]	 update session status
+[2007 15:37    850.363] [server_api]	 API request Session successfully executed
+[2007 15:37    850.363] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77686272571,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:37    850.364] [basic]	 update session status
+[2007 15:37    855.102] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:38    910.155] [server_api]	 API request Session successfully executed
+[2007 15:38    910.155] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77694095493,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:38    910.155] [basic]	 update session status
+[2007 15:39    920.500] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:39    970.231] [server_api]	 API request Session successfully executed
+[2007 15:39    970.231] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77702213288,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:39    970.232] [basic]	 update session status
+[2007 15:40    985.070] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:40   1030.195] [server_api]	 API request Session successfully executed
+[2007 15:40   1030.195] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77703543106,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:40   1030.196] [basic]	 update session status
+[2007 15:41   1050.082] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:41   1090.218] [server_api]	 API request Session successfully executed
+[2007 15:41   1090.218] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77705896897,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:41   1090.218] [basic]	 update session status
+[2007 15:42   1115.138] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:42   1150.237] [server_api]	 API request Session successfully executed
+[2007 15:42   1150.237] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77739530854,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:42   1150.237] [basic]	 update session status
+[2007 15:43   1180.162] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:43   1210.241] [server_api]	 API request Session successfully executed
+[2007 15:43   1210.241] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77740250539,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:43   1210.242] [basic]	 update session status
+[2007 15:44   1245.124] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:44   1270.318] [server_api]	 API request Session successfully executed
+[2007 15:44   1270.318] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77740378027,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:44   1270.319] [basic]	 update session status
+[2007 15:45   1310.142] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:45   1330.247] [server_api]	 API request Session successfully executed
+[2007 15:45   1330.247] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77792860617,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:45   1330.247] [basic]	 update session status
+[2007 15:46   1375.508] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:46   1390.329] [server_api]	 API request Session successfully executed
+[2007 15:46   1390.329] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812590782,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:46   1390.329] [basic]	 update session status
+[2007 15:47   1440.152] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:47   1450.287] [server_api]	 API request Session successfully executed
+[2007 15:47   1450.287] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812634117,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:47   1450.287] [basic]	 update session status
+[2007 15:48   1505.125] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:48   1510.286] [server_api]	 API request Session successfully executed
+[2007 15:48   1510.286] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812688169,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:48   1510.287] [basic]	 update session status
+[2007 15:49   1570.244] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:49   1570.780] [server_api]	 API request Session successfully executed
+[2007 15:49   1570.780] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812744210,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:49   1570.780] [basic]	 update session status
+[2007 15:50   1630.777] [server_api]	 API request Session successfully executed
+[2007 15:50   1630.778] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812803455,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:50   1630.778] [basic]	 update session status
+[2007 15:50   1635.143] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:51   1690.345] [server_api]	 API request Session successfully executed
+[2007 15:51   1690.345] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77812965163,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:51   1690.345] [basic]	 update session status
+[2007 15:52   1700.196] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:52   1750.395] [server_api]	 API request Session successfully executed
+[2007 15:52   1750.395] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813052940,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:52   1750.395] [basic]	 update session status
+[2007 15:53   1765.534] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:53   1810.485] [server_api]	 API request Session successfully executed
+[2007 15:53   1810.485] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813110542,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:53   1810.485] [basic]	 update session status
+[2007 15:54   1830.199] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:54   1870.509] [server_api]	 API request Session successfully executed
+[2007 15:54   1870.509] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813184330,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:54   1870.509] [basic]	 update session status
+[2007 15:55   1895.188] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:55   1930.475] [server_api]	 API request Session successfully executed
+[2007 15:55   1930.475] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813277387,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:55   1930.475] [basic]	 update session status
+[2007 15:56   1960.178] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:56   1990.494] [server_api]	 API request Session successfully executed
+[2007 15:56   1990.494] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813341090,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:56   1990.494] [basic]	 update session status
+[2007 15:57   2025.255] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:57   2050.468] [server_api]	 API request Session successfully executed
+[2007 15:57   2050.468] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813403288,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:57   2050.468] [basic]	 update session status
+[2007 15:58   2090.145] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:58   2110.485] [server_api]	 API request Session successfully executed
+[2007 15:58   2110.485] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813461107,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:58   2110.486] [basic]	 update session status
+[2007 15:59   2155.197] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 15:59   2170.426] [server_api]	 API request Session successfully executed
+[2007 15:59   2170.426] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813516433,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 15:59   2170.426] [basic]	 update session status
+[2007 16:00   2220.216] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:00   2230.572] [server_api]	 API request Session successfully executed
+[2007 16:00   2230.572] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813574139,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:00   2230.573] [basic]	 update session status
+[2007 16:02   2296.925] [server_api]	 API request ServerLocations failed: DNS-resolution failed
+[2007 16:02   2296.925] [server_api]	 API request Session failed: DNS-resolution failed
+[2007 16:02   2296.926] [basic]	 Request server locations failed. Seems no internet connectivity
+[2007 16:02   2312.370] [openvpn]	 ">LOG:1500566537,I,[Windscribe Node Server 4096] Inactivity timeout (--ping-restart), restarting"
+[2007 16:02   2312.370] [openvpn]	 ">LOG:1500566537,I,SIGUSR1[soft,ping-restart] received, process restarting"
+[2007 16:02   2312.371] [openvpn]	 ">STATE:1500566537,RECONNECTING,ping-restart,,"
+[2007 16:02   2312.371] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 16:02   2312.371] [connection]	 ConnectionManager::onOpenVPNReconnecting(), state_ = 2
+[2007 16:02   2312.371] [basic]	 on reconnecting event
+[2007 16:02   2312.371] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 16:02   2312.371] [openvpn]	 "1500564234,CONNECTING,,,"
+[2007 16:02   2312.371] [openvpn]	 "1500564235,WAIT,,,"
+[2007 16:02   2312.371] [openvpn]	 "1500564235,AUTH,,,"
+[2007 16:02   2312.371] [openvpn]	 "1500564236,GET_CONFIG,,,"
+[2007 16:02   2312.371] [openvpn]	 "1500564238,ASSIGN_IP,,10.110.190.24,"
+[2007 16:02   2312.371] [openvpn]	 "1500564243,CONNECTED,SUCCESS,10.110.190.24,5.133.8.164"
+[2007 16:02   2312.371] [openvpn]	 "1500566537,RECONNECTING,ping-restart,,"
+[2007 16:02   2312.371] [openvpn]	 "END"
+[2007 16:02   2312.371] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 16:02   2312.372] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 16:02   2312.372] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 16:02   2312.372] [openvpn]	 ">LOG:1500566537,I,UDPv4 link local: [undef]"
+[2007 16:02   2312.372] [openvpn]	 ">LOG:1500566537,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 16:02   2312.372] [openvpn]	 ">STATE:1500566537,WAIT,,,"
+[2007 16:02   2312.390] [basic]	 state = CONNECT_BUTTON_CONNECTING
+[2007 16:02   2312.392] [openvpn]	 "SUCCESS: signal SIGTERM thrown"
+[2007 16:02   2312.399] [openvpn]	 ">LOG:1500566537,,Closing TUN/TAP interface"
+[2007 16:02   2312.399] [openvpn]	 ">LOG:1500566537,I,SIGTERM[hard,] received, process exiting"
+[2007 16:02   2312.399] [openvpn]	 ">STATE:1500566537,EXITING,SIGTERM,,"
+[2007 16:02   2312.399] [connection]	 ConnectionManager::onOpenVPNDisconnected(), state_ = 3
+[2007 16:02   2312.400] [connection]	 OVPN-config path: "C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn"
+[2007 16:02   2312.400] [connection]	 Connecting to IP: "5.133.8.164"  protocol: "UDP"  port: 54783
+[2007 16:02   2312.400] [connection]	 connectOVPN
+[2007 16:02   2312.400] [connection]	 "--config \"C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn\" --management 127.0.0.1 49802 --management-query-passwords --management-hold"
+[2007 16:02   2312.401] [connection]	 openvpn process runned:  49802
+[2007 16:02   2312.899] [connection]	 Program connected to openvpn socket
+[2007 16:02   2312.900] [openvpn]	 ">INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info"
+[2007 16:02   2312.900] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 16:02   2312.900] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 16:02   2312.900] [openvpn]	 "1500566537,CONNECTING,,,"
+[2007 16:02   2312.900] [openvpn]	 "END"
+[2007 16:02   2312.900] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 16:02   2312.901] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 16:02   2312.901] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 16:02   2312.901] [openvpn]	 ">PASSWORD:Need 'Auth' username/password"
+[2007 16:02   2312.901] [openvpn]	 "SUCCESS: 'Auth' username entered, but not yet verified"
+[2007 16:02   2312.901] [openvpn]	 "SUCCESS: 'Auth' password entered, but not yet verified"
+[2007 16:02   2312.984] [openvpn]	 ">LOG:1500566537,I,Control Channel Authentication: tls-auth using INLINE static key file"
+[2007 16:02   2312.985] [openvpn]	 ">LOG:1500566537,,Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:02   2312.985] [openvpn]	 ">LOG:1500566537,,Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:02   2312.985] [openvpn]	 ">LOG:1500566537,I,UDPv4 link local: [undef]"
+[2007 16:02   2312.985] [openvpn]	 ">LOG:1500566537,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 16:02   2312.985] [openvpn]	 ">STATE:1500566537,WAIT,,,"
+[2007 16:02   2313.058] [openvpn]	 ">STATE:1500566537,AUTH,,,"
+[2007 16:02   2313.058] [openvpn]	 ">LOG:1500566537,W,WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this"
+[2007 16:02   2313.134] [openvpn]	 ">LOG:1500566537,,VERIFY OK: depth=1, C=CA, ST=ON, L=Toronto, O=Windscribe Limited, OU=Operations, CN=Windscribe Node CA"
+[2007 16:02   2313.134] [openvpn]	 ">LOG:1500566537,,VERIFY OK: nsCertType=SERVER"
+[2007 16:02   2313.134] [openvpn]	 ">LOG:1500566537,,VERIFY OK: depth=0, C=CA, ST=ON, O=Windscribe Limited, OU=Operations, CN=Windscribe Node Server 4096"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,,Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,,Data Channel Encrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,,Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,,Data Channel Decrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 4096 bit RSA"
+[2007 16:02   2313.900] [openvpn]	 ">LOG:1500566538,I,[Windscribe Node Server 4096] Peer Connection Initiated with [AF_INET]5.133.8.164:54783"
+[2007 16:02   2315.146] [openvpn]	 ">STATE:1500566539,GET_CONFIG,,,"
+[2007 16:02   2316.220] [openvpn]	 ">LOG:1500566540,I,do_ifconfig, tt->ipv6=0, tt->did_ifconfig_ipv6_setup=0"
+[2007 16:02   2316.220] [openvpn]	 ">STATE:1500566540,ASSIGN_IP,,10.110.190.13,"
+[2007 16:02   2316.220] [openvpn]	 ">LOG:1500566540,I,open_tun, tt->ipv6=0"
+[2007 16:02   2316.221] [openvpn]	 ">LOG:1500566540,I,TAP-WIN32 device [WS] opened: \\\\.\\Global\\{FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}.tap"
+[2007 16:02   2316.221] [openvpn]	 ">LOG:1500566540,I,Set TAP-Windows TUN subnet mode network/local/netmask = 10.110.190.0/10.110.190.13/255.255.254.0 [SUCCEEDED]"
+[2007 16:02   2316.221] [openvpn]	 ">LOG:1500566540,I,Notified TAP-Windows driver to set a DHCP IP/netmask of 10.110.190.13/255.255.254.0 on interface {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262} [DHCP-serv: 10.110.191.254, lease-time: 31536000]"
+[2007 16:02   2316.221] [openvpn]	 ">LOG:1500566540,I,Successful ARP Flush on interface [24] {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}"
+[2007 16:02   2316.221] [openvpn]	 ">LOG:1500566540,I,Blocking DNS using WFP"
+[2007 16:02   2320.695] [openvpn]	 ">LOG:1500566545,I,Initialization Sequence Completed"
+[2007 16:02   2320.696] [openvpn]	 ">STATE:1500566545,CONNECTED,SUCCESS,10.110.190.13,5.133.8.164"
+[2007 16:02   2320.696] [connection]	 ConnectionManager::onOpenVPNConnected(), state_ = 3
+[2007 16:02   2320.696] [connection]	 TestVPNTunnel::startTests()
+[2007 16:02   2320.719] [basic]	 state = CONNECT_BUTTON_ON
+[2007 16:02   2320.754] [server_api]	 Changed DNS mode to automatic
+[2007 16:02   2325.782] [connection]	 Do ping test to: "https://ping.windscribe.com"
+[2007 16:02   2326.438] [connection]	 Resolve test: ok; Ping test: ok; Fetch test: ok
+[2007 16:02   2326.438] [connection]	 TestVPNTunnel::stopTests()
+[2007 16:02   2350.155] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:02   2350.508] [server_api]	 API request Session successfully executed
+[2007 16:02   2350.508] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813683195,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:02   2350.508] [basic]	 update session status
+[2007 16:03   2410.574] [server_api]	 API request Session successfully executed
+[2007 16:03   2410.574] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813724231,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:03   2410.575] [basic]	 update session status
+[2007 16:03   2415.155] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:04   2470.634] [server_api]	 API request Session successfully executed
+[2007 16:04   2470.634] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77813980351,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:04   2470.634] [basic]	 update session status
+[2007 16:05   2480.294] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:05   2530.680] [server_api]	 API request Session successfully executed
+[2007 16:05   2530.680] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77814042154,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:05   2530.680] [basic]	 update session status
+[2007 16:06   2545.275] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:06   2590.569] [server_api]	 API request Session successfully executed
+[2007 16:06   2590.569] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77814101967,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:06   2590.570] [basic]	 update session status
+[2007 16:07   2610.667] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:07   2650.746] [server_api]	 API request Session successfully executed
+[2007 16:07   2650.746] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77814182541,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:07   2650.746] [basic]	 update session status
+[2007 16:08   2675.610] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:08   2710.554] [server_api]	 API request Session successfully executed
+[2007 16:08   2710.554] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77814222732,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:08   2710.554] [basic]	 update session status
+[2007 16:09   2740.297] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:09   2770.569] [server_api]	 API request Session successfully executed
+[2007 16:09   2770.569] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77814240921,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:09   2770.569] [basic]	 update session status
+[2007 16:10   2805.454] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:10   2830.647] [server_api]	 API request Session successfully executed
+[2007 16:10   2830.647] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77817609591,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:10   2830.647] [basic]	 update session status
+[2007 16:11   2870.326] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:11   2890.706] [server_api]	 API request Session successfully executed
+[2007 16:11   2890.707] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818289724,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:11   2890.707] [basic]	 update session status
+[2007 16:12   2935.760] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:12   2950.595] [server_api]	 API request Session successfully executed
+[2007 16:12   2950.596] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818381401,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:12   2950.596] [basic]	 update session status
+[2007 16:13   3000.215] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:13   3010.620] [server_api]	 API request Session successfully executed
+[2007 16:13   3010.620] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818445827,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:13   3010.620] [basic]	 update session status
+[2007 16:14   3065.284] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:14   3070.636] [server_api]	 API request Session successfully executed
+[2007 16:14   3070.636] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818483745,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:14   3070.636] [basic]	 update session status
+[2007 16:15   3130.220] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:15   3130.911] [server_api]	 API request Session successfully executed
+[2007 16:15   3130.912] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818525904,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:15   3130.912] [basic]	 update session status
+[2007 16:16   3190.761] [server_api]	 API request Session successfully executed
+[2007 16:16   3190.761] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818573301,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:16   3190.762] [basic]	 update session status
+[2007 16:16   3195.294] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:17   3250.752] [server_api]	 API request Session successfully executed
+[2007 16:17   3250.752] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818628903,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:17   3250.752] [basic]	 update session status
+[2007 16:18   3260.638] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:18   3310.668] [server_api]	 API request Session successfully executed
+[2007 16:18   3310.668] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77818686353,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:18   3310.668] [basic]	 update session status
+[2007 16:19   3325.505] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:19   3370.695] [server_api]	 API request Session successfully executed
+[2007 16:19   3370.695] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77819672705,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:19   3370.695] [basic]	 update session status
+[2007 16:20   3390.756] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:20   3431.141] [server_api]	 API request Session successfully executed
+[2007 16:20   3431.141] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77821159088,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:20   3431.141] [basic]	 update session status
+[2007 16:21   3455.419] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:21   3490.766] [server_api]	 API request Session successfully executed
+[2007 16:21   3490.767] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77821811048,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:21   3490.767] [basic]	 update session status
+[2007 16:22   3520.662] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:22   3550.714] [server_api]	 API request Session successfully executed
+[2007 16:22   3550.714] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77822117268,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:22   3550.715] [basic]	 update session status
+[2007 16:23   3585.666] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:23   3610.736] [server_api]	 API request Session successfully executed
+[2007 16:23   3610.736] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77822168119,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:23   3610.736] [basic]	 update session status
+[2007 16:24   3650.263] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:24   3670.796] [server_api]	 API request Session successfully executed
+[2007 16:24   3670.796] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77823478841,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:24   3670.796] [basic]	 update session status
+[2007 16:25   3715.275] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:25   3730.778] [server_api]	 API request Session successfully executed
+[2007 16:25   3730.778] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77827265555,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:25   3730.778] [basic]	 update session status
+[2007 16:26   3780.285] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:26   3790.906] [server_api]	 API request Session successfully executed
+[2007 16:26   3790.906] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77839492032,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:26   3790.906] [basic]	 update session status
+[2007 16:27   3845.688] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:27   3850.862] [server_api]	 API request Session successfully executed
+[2007 16:27   3850.862] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77841600062,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:27   3850.862] [basic]	 update session status
+[2007 16:28   3910.373] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:28   3910.954] [server_api]	 API request Session successfully executed
+[2007 16:28   3910.954] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77841800149,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:28   3910.954] [basic]	 update session status
+[2007 16:29   3970.978] [server_api]	 API request Session successfully executed
+[2007 16:29   3970.978] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77843516922,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:29   3970.979] [basic]	 update session status
+[2007 16:29   3975.288] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:30   4030.892] [server_api]	 API request Session successfully executed
+[2007 16:30   4030.893] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77843550338,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:30   4030.893] [basic]	 update session status
+[2007 16:31   4040.307] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:31   4091.237] [server_api]	 API request Session successfully executed
+[2007 16:31   4091.237] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77844040972,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:31   4091.237] [basic]	 update session status
+[2007 16:32   4105.311] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:32   4150.865] [server_api]	 API request Session successfully executed
+[2007 16:32   4150.866] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77846549632,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:32   4150.866] [basic]	 update session status
+[2007 16:33   4170.328] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:33   4210.880] [server_api]	 API request Session successfully executed
+[2007 16:33   4210.881] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77846746317,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:33   4210.881] [basic]	 update session status
+[2007 16:34   4235.390] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:34   4270.960] [server_api]	 API request Session successfully executed
+[2007 16:34   4270.960] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77847010386,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:34   4270.960] [basic]	 update session status
+[2007 16:35   4300.353] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:35   4330.981] [server_api]	 API request Session successfully executed
+[2007 16:35   4330.981] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77852481431,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:35   4330.981] [basic]	 update session status
+[2007 16:36   4365.414] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:36   4390.921] [server_api]	 API request Session successfully executed
+[2007 16:36   4390.921] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77856732607,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:36   4390.922] [basic]	 update session status
+[2007 16:37   4430.333] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:37   4450.914] [server_api]	 API request Session successfully executed
+[2007 16:37   4450.914] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77858819943,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:37   4450.914] [basic]	 update session status
+[2007 16:38   4495.377] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:38   4510.955] [server_api]	 API request Session successfully executed
+[2007 16:38   4510.955] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859455109,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2129\n}\n}"
+[2007 16:38   4510.956] [basic]	 update session status
+[2007 16:39   4560.553] [server_api]	 API request ServerLocations successfully executed, revision changed = 2130
+[2007 16:39   4560.555] [basic]	 Servers locations changed
+[2007 16:39   4564.595] [ping ]	 Ping failed for node:  "176.10.116.112"
+[2007 16:39   4571.111] [server_api]	 API request Session successfully executed
+[2007 16:39   4571.111] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859476748,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2130\n}\n}"
+[2007 16:39   4571.111] [basic]	 update session status
+[2007 16:40   4625.941] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:40   4631.025] [server_api]	 API request Session successfully executed
+[2007 16:40   4631.025] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859498467,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2130\n}\n}"
+[2007 16:40   4631.026] [basic]	 update session status
+[2007 16:41   4690.662] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:41   4691.430] [server_api]	 API request Session successfully executed
+[2007 16:41   4691.430] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859655646,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2130\n}\n}"
+[2007 16:41   4691.431] [basic]	 update session status
+[2007 16:42   4751.395] [server_api]	 API request Session successfully executed
+[2007 16:42   4751.395] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859682876,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2130\n}\n}"
+[2007 16:42   4751.395] [basic]	 update session status
+[2007 16:43   4755.630] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:43   4811.392] [server_api]	 API request Session successfully executed
+[2007 16:43   4811.393] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859711249,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:43   4811.393] [basic]	 update session status
+[2007 16:44   4820.936] [server_api]	 API request ServerLocations successfully executed, revision changed = 2131
+[2007 16:44   4820.937] [basic]	 Servers locations changed
+[2007 16:44   4871.585] [server_api]	 API request Session successfully executed
+[2007 16:44   4871.586] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859738189,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:44   4871.586] [basic]	 update session status
+[2007 16:45   4885.643] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:45   4931.197] [server_api]	 API request Session successfully executed
+[2007 16:45   4931.197] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859893010,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:45   4931.198] [basic]	 update session status
+[2007 16:46   4950.742] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:46   4991.393] [server_api]	 API request Session successfully executed
+[2007 16:46   4991.393] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859914558,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:46   4991.393] [basic]	 update session status
+[2007 16:47   5015.734] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:47   5048.346] [openvpn]	 ">LOG:1500569273,N,Authenticate/Decrypt packet error: packet HMAC authentication failed"
+[2007 16:47   5051.437] [server_api]	 API request Session successfully executed
+[2007 16:47   5051.437] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77859957366,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:47   5051.438] [basic]	 update session status
+[2007 16:48   5080.832] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:48   5111.595] [server_api]	 API request Session successfully executed
+[2007 16:48   5111.595] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77866889534,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:48   5111.595] [basic]	 update session status
+[2007 16:49   5146.140] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:49   5171.207] [server_api]	 API request Session successfully executed
+[2007 16:49   5171.207] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77876129894,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:49   5171.208] [basic]	 update session status
+[2007 16:50   5210.704] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:50   5231.299] [server_api]	 API request Session successfully executed
+[2007 16:50   5231.300] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77877246999,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:50   5231.300] [basic]	 update session status
+[2007 16:51   5275.649] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:51   5291.558] [server_api]	 API request Session successfully executed
+[2007 16:51   5291.558] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77882969366,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:51   5291.559] [basic]	 update session status
+[2007 16:52   5340.653] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:52   5351.445] [server_api]	 API request Session successfully executed
+[2007 16:52   5351.446] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77885565319,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:52   5351.446] [basic]	 update session status
+[2007 16:53   5405.926] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:53   5411.467] [server_api]	 API request Session successfully executed
+[2007 16:53   5411.467] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77886775278,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:53   5411.467] [basic]	 update session status
+[2007 16:54   5470.709] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:54   5471.310] [server_api]	 API request Session successfully executed
+[2007 16:54   5471.310] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77887418570,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:54   5471.310] [basic]	 update session status
+[2007 16:56   5536.517] [openvpn]	 ">LOG:1500569761,I,[Windscribe Node Server 4096] Inactivity timeout (--ping-restart), restarting"
+[2007 16:56   5536.518] [openvpn]	 ">LOG:1500569761,I,SIGUSR1[soft,ping-restart] received, process restarting"
+[2007 16:56   5536.518] [openvpn]	 ">STATE:1500569761,RECONNECTING,ping-restart,,"
+[2007 16:56   5536.518] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 16:56   5536.519] [connection]	 ConnectionManager::onOpenVPNReconnecting(), state_ = 2
+[2007 16:56   5536.519] [basic]	 on reconnecting event
+[2007 16:56   5536.519] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 16:56   5536.519] [openvpn]	 "1500566537,CONNECTING,,,"
+[2007 16:56   5536.519] [openvpn]	 "1500566537,WAIT,,,"
+[2007 16:56   5536.519] [openvpn]	 "1500566537,AUTH,,,"
+[2007 16:56   5536.519] [openvpn]	 "1500566539,GET_CONFIG,,,"
+[2007 16:56   5536.519] [openvpn]	 "1500566540,ASSIGN_IP,,10.110.190.13,"
+[2007 16:56   5536.519] [openvpn]	 "1500566545,CONNECTED,SUCCESS,10.110.190.13,5.133.8.164"
+[2007 16:56   5536.519] [openvpn]	 "1500569761,RECONNECTING,ping-restart,,"
+[2007 16:56   5536.519] [openvpn]	 "END"
+[2007 16:56   5536.520] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 16:56   5536.520] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 16:56   5536.521] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 16:56   5536.521] [openvpn]	 ">LOG:1500569761,I,UDPv4 link local: [undef]"
+[2007 16:56   5536.521] [openvpn]	 ">LOG:1500569761,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 16:56   5536.521] [openvpn]	 ">STATE:1500569761,WAIT,,,"
+[2007 16:56   5536.542] [basic]	 state = CONNECT_BUTTON_CONNECTING
+[2007 16:56   5536.542] [openvpn]	 "SUCCESS: signal SIGTERM thrown"
+[2007 16:56   5536.549] [openvpn]	 ">LOG:1500569761,,Closing TUN/TAP interface"
+[2007 16:56   5536.549] [openvpn]	 ">LOG:1500569761,I,SIGTERM[hard,] received, process exiting"
+[2007 16:56   5536.549] [openvpn]	 ">STATE:1500569761,EXITING,SIGTERM,,"
+[2007 16:56   5536.550] [connection]	 ConnectionManager::onOpenVPNDisconnected(), state_ = 3
+[2007 16:56   5536.550] [connection]	 OVPN-config path: "C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn"
+[2007 16:56   5536.550] [connection]	 Connecting to IP: "5.133.8.164"  protocol: "UDP"  port: 54783
+[2007 16:56   5536.550] [connection]	 connectOVPN
+[2007 16:56   5536.574] [connection]	 "--config \"C:/Users/Администратор/AppData/Local/Windscribe/Windscribe/config.ovpn\" --management 127.0.0.1 51005 --management-query-passwords --management-hold"
+[2007 16:56   5536.577] [connection]	 openvpn process runned:  51005
+[2007 16:56   5537.079] [connection]	 Program connected to openvpn socket
+[2007 16:56   5537.079] [openvpn]	 ">INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info"
+[2007 16:56   5537.080] [openvpn]	 ">HOLD:Waiting for hold release"
+[2007 16:56   5537.080] [openvpn]	 "SUCCESS: real-time state notification set to ON"
+[2007 16:56   5537.080] [openvpn]	 "1500569761,CONNECTING,,,"
+[2007 16:56   5537.080] [openvpn]	 "END"
+[2007 16:56   5537.080] [openvpn]	 "SUCCESS: real-time log notification set to ON"
+[2007 16:56   5537.080] [openvpn]	 "SUCCESS: bytecount interval changed"
+[2007 16:56   5537.081] [openvpn]	 "SUCCESS: hold release succeeded"
+[2007 16:56   5537.081] [openvpn]	 ">PASSWORD:Need 'Auth' username/password"
+[2007 16:56   5537.081] [openvpn]	 "SUCCESS: 'Auth' username entered, but not yet verified"
+[2007 16:56   5537.083] [openvpn]	 "SUCCESS: 'Auth' password entered, but not yet verified"
+[2007 16:56   5537.167] [openvpn]	 ">LOG:1500569761,I,Control Channel Authentication: tls-auth using INLINE static key file"
+[2007 16:56   5537.167] [openvpn]	 ">LOG:1500569761,,Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:56   5537.168] [openvpn]	 ">LOG:1500569761,,Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:56   5537.168] [openvpn]	 ">LOG:1500569761,I,UDPv4 link local: [undef]"
+[2007 16:56   5537.168] [openvpn]	 ">LOG:1500569761,I,UDPv4 link remote: [AF_INET]5.133.8.164:54783"
+[2007 16:56   5537.168] [openvpn]	 ">STATE:1500569761,WAIT,,,"
+[2007 16:56   5537.221] [openvpn]	 ">STATE:1500569761,AUTH,,,"
+[2007 16:56   5537.221] [openvpn]	 ">LOG:1500569761,W,WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this"
+[2007 16:56   5537.303] [openvpn]	 ">LOG:1500569762,,VERIFY OK: depth=1, C=CA, ST=ON, L=Toronto, O=Windscribe Limited, OU=Operations, CN=Windscribe Node CA"
+[2007 16:56   5537.303] [openvpn]	 ">LOG:1500569762,,VERIFY OK: nsCertType=SERVER"
+[2007 16:56   5537.303] [openvpn]	 ">LOG:1500569762,,VERIFY OK: depth=0, C=CA, ST=ON, O=Windscribe Limited, OU=Operations, CN=Windscribe Node Server 4096"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,,Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,,Data Channel Encrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,,Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,,Data Channel Decrypt: Using 512 bit message hash 'SHA512' for HMAC authentication"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,,Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 4096 bit RSA"
+[2007 16:56   5537.901] [openvpn]	 ">LOG:1500569762,I,[Windscribe Node Server 4096] Peer Connection Initiated with [AF_INET]5.133.8.164:54783"
+[2007 16:56   5539.045] [openvpn]	 ">STATE:1500569763,GET_CONFIG,,,"
+[2007 16:56   5539.438] [server_api]	 API request Session successfully executed
+[2007 16:56   5539.438] [server_api]	 "{\n\"data\": {\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77888518594,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:56   5539.438] [basic]	 update session status
+[2007 16:56   5539.439] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:56   5540.276] [openvpn]	 ">LOG:1500569764,I,do_ifconfig, tt->ipv6=0, tt->did_ifconfig_ipv6_setup=0"
+[2007 16:56   5540.276] [openvpn]	 ">STATE:1500569764,ASSIGN_IP,,10.110.190.25,"
+[2007 16:56   5540.276] [openvpn]	 ">LOG:1500569764,I,open_tun, tt->ipv6=0"
+[2007 16:56   5540.276] [openvpn]	 ">LOG:1500569764,I,TAP-WIN32 device [WS] opened: \\\\.\\Global\\{FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}.tap"
+[2007 16:56   5540.277] [openvpn]	 ">LOG:1500569764,I,Set TAP-Windows TUN subnet mode network/local/netmask = 10.110.190.0/10.110.190.25/255.255.254.0 [SUCCEEDED]"
+[2007 16:56   5540.277] [openvpn]	 ">LOG:1500569764,I,Notified TAP-Windows driver to set a DHCP IP/netmask of 10.110.190.25/255.255.254.0 on interface {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262} [DHCP-serv: 10.110.191.254, lease-time: 31536000]"
+[2007 16:56   5540.277] [openvpn]	 ">LOG:1500569764,I,Successful ARP Flush on interface [24] {FDDDF3C4-03E9-4F16-AC1A-A4147B3B6262}"
+[2007 16:56   5540.277] [openvpn]	 ">LOG:1500569764,I,Blocking DNS using WFP"
+[2007 16:56   5544.750] [openvpn]	 ">LOG:1500569769,I,Initialization Sequence Completed"
+[2007 16:56   5544.750] [openvpn]	 ">STATE:1500569769,CONNECTED,SUCCESS,10.110.190.25,5.133.8.164"
+[2007 16:56   5544.750] [connection]	 ConnectionManager::onOpenVPNConnected(), state_ = 3
+[2007 16:56   5544.751] [connection]	 TestVPNTunnel::startTests()
+[2007 16:56   5544.781] [basic]	 state = CONNECT_BUTTON_ON
+[2007 16:56   5544.811] [server_api]	 Changed DNS mode to automatic
+[2007 16:56   5550.065] [connection]	 Do ping test to: "https://ping.windscribe.com"
+[2007 16:56   5550.610] [connection]	 Resolve test: ok; Ping test: ok; Fetch test: ok
+[2007 16:56   5550.610] [connection]	 TestVPNTunnel::stopTests()
+[2007 16:56   5591.663] [server_api]	 API request Session successfully executed
+[2007 16:56   5591.663] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77888971561,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:56   5591.663] [basic]	 update session status
+[2007 16:57   5600.635] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:57   5651.487] [server_api]	 API request Session successfully executed
+[2007 16:57   5651.487] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77889088449,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:57   5651.488] [basic]	 update session status
+[2007 16:58   5665.664] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:58   5711.318] [server_api]	 API request Session successfully executed
+[2007 16:58   5711.318] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77889608184,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:58   5711.318] [basic]	 update session status
+[2007 16:59   5730.707] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 16:59   5771.498] [server_api]	 API request Session successfully executed
+[2007 16:59   5771.499] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77890023352,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 16:59   5771.499] [basic]	 update session status
+[2007 17:00   5795.594] [server_api]	 API request ServerLocations successfully executed, revision not changed
+[2007 17:00   5831.653] [server_api]	 API request Session successfully executed
+[2007 17:00   5831.653] [server_api]	 "{\n\"data\": {\n\"our_ip\": 1,\n\"our_location\": \"PL\",\n\"username\": \"PiterPols\",\n\"user_id\": \"s3t1xmzw\",\n\"traffic_used\": 77890073434,\n\"traffic_max\": -1,\n\"status\": 1,\n\"billing_plan_id\": 28,\n\"is_premium\": 1,\n\"rebill\": 0,\n\"premium_expiry_date\": \"2019-06-04\",\n\"reg_date\": 1496553543,\n\"last_reset\": \"2017-07-04\",\n\"loc_rev\": 2131\n}\n}"
+[2007 17:00   5831.653] [basic]	 update session status
+[2007 17:01   5852.477] [openvpn]	 ">LOG:1500570077,N,Authenticate/Decrypt packet error: packet HMAC authentication failed"
+[2007 17:01   5860.766] [server_api]	 API request ServerLocations successfully executed, revision not changed

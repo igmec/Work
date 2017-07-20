@@ -5,10 +5,11 @@
 4.
 */
 const fs = require("fs");
-//const log = fs.readFileSync("./userLogs/log-saxanger.txt", "UTF8");
-//const log = fs.readFileSync("./userLogs/log-guyverwey.txt", "UTF8");
-const log = fs.readFileSync("./userLogs/log-PamW.txt", "UTF8");
-//const log = fs.readFileSync("./log.txt", "UTF8");
+var files = ["./log.txt", "./userLogs/log-saxanger.txt", "./userLogs/log-guyverwey.txt", "./userLogs/log-PamW.txt", "./userLogs/log-PiterPols.txt"]
+const log = fs.readFileSync(files[files.length-1], "UTF8");
+
+console.log("Reading:  " + files[files.length-1] + "\n");
+
 var logSplit = log.split("\n");
 
 
