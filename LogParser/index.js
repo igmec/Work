@@ -5,7 +5,7 @@
 4.
 */
 const fs = require("fs");
-var files = ["./log.txt", "./userLogs/log-saxanger.txt", "./userLogs/log-guyverwey.txt", "./userLogs/log-PamW.txt", "./userLogs/log-PiterPols.txt"]
+var files = ["./log.txt", "./userLogs/log-saxanger.txt", "./userLogs/log-guyverwey.txt", "./userLogs/log-PamW.txt", "./userLogs/log-PiterPols.txt", "./userLogs/log-cranstonomicon.txt"];
 const log = fs.readFileSync(files[files.length-1], "UTF8");
 
 console.log("Reading:  " + files[files.length-1] + "\n");
@@ -37,7 +37,7 @@ for(var i=0;i<logSplit.length;i++){
 		currentLine = parseLine(logSplit[i]);
 
 		//Check if user clicked connect or disconnect
-		if(currentLine[2] == "user " && (~currentLine[3].toLowerCase().indexOf('connect') != 0)){		
+		if(currentLine[2] == "user " && (~currentLine[3].toLowerCase().indexOf('connect') != 0) && (currentLine[3].split(" ").length == 4)){		
 			console.log(i + "\t" + "USER "+currentLine[3].split(" ")[0]);
 		}
 
